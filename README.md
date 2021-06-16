@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/Solfeggio/Valerie_Chow/blob/main/Github_1.jpg)
+![alt text](https://github.com/Solfeggio/Valerie_Chow/blob/main/Github_2.jpg)
 
 <!-- Add your details -->
 
